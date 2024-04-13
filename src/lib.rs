@@ -1,3 +1,4 @@
+#![allow(non_snake_case)]
 use std::collections::HashMap;
 
 fn anagramMapCreator(word: &String) -> HashMap<char, u32> {
